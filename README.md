@@ -1,0 +1,1 @@
+Minimal sample for extra methods issue https://github.com/Kotlin/kotlinx.coroutines/issues/380
